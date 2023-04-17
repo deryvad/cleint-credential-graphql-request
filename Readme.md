@@ -16,7 +16,7 @@ LOGIN_URL = "<Azure AD Login URL>"
 CLIENT_ID = "<Your application's ESO Client Id>"
 CLIENT_SECRET = "<Your application's ESO Client Secret>"
 AIRVIEW_CLIENT_ID = "<The airview service's ESO Client Id>"
-AIRVIEW_GRAPHQL_URL = "https://airview.ciostage.accenture.com/graph"
+AIRVIEW_GRAPHQL_URL = "<The AIRVIEW GraphQL API URL>"
 
 ```
 ### Refer to the [AIRVIEW](https://airview.accenture.com/api#introduction-item-1) documentation for the values.
