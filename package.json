@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "deryvad",
   "license": "ISC",
   "dependencies": {
     "graphql": "^16.6.0",
