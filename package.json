@@ -1,6 +1,6 @@
 {
   "name": "client-credential-graphql-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplifies the process of making authenticated GraphQL requests using client credentials",
   "main": "index.js",
   "scripts": {
